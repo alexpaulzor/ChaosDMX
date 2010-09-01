@@ -21,8 +21,8 @@ class Channel:
     self.value = value
 
 class Fixture:
-  def __init__(self, channel, name = None):
-    self.channel = channel
+  def __init__(self, address, name = None):
+    self.address= address
     if not name:
       self.name = self.__class__.__name__
     else:
