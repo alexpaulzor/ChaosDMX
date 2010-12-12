@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2101/trunk/plugins/ewinginput/test
+END
+testeplaybackwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/test/testeplaybackwing.cpp
+END
+testeprogramwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/test/testeprogramwing.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/test/main.cpp
+END
+testeplaybackwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/1779/trunk/plugins/ewinginput/test/testeplaybackwing.h
+END
+testeshortcutwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/test/testeshortcutwing.cpp
+END
+testeprogramwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/1779/trunk/plugins/ewinginput/test/testeprogramwing.h
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2101/trunk/plugins/ewinginput/test/test.sh
+END
+testeshortcutwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/1779/trunk/plugins/ewinginput/test/testeshortcutwing.h
+END
+test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1863/trunk/plugins/ewinginput/test/test.pro
+END

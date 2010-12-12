@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/udmxout/src
+END
+libusb_dyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/libusb_dyn.h
+END
+uDMX_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/udmxout/src/uDMX_Output_de_DE.ts
+END
+udmxdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/udmxdevice.h
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/udmxout/src/src.pro
+END
+udmxout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/udmxout.cpp
+END
+libusb_dyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/libusb_dyn.c
+END
+udmxout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/udmxout.h
+END
+z65-anyma-udmx.rules
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/z65-anyma-udmx.rules
+END
+uDMX_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/uDMX_Output_fi_FI.ts
+END
+udmxdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/2042/trunk/plugins/udmxout/src/udmxdevice.cpp
+END

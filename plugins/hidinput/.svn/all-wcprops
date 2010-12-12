@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/hidinput
+END
+hidinput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/hidinput/hidinput.pro
+END
+HID_Input_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/hidinput/HID_Input_de_DE.ts
+END
+hidjsdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hidjsdevice.cpp
+END
+configurehidinput.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/hidinput/configurehidinput.ui
+END
+hidpoller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/hidinput/hidpoller.cpp
+END
+HID_Input_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/hidinput/HID_Input_fi_FI.ts
+END
+hidinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2032/trunk/plugins/hidinput/hidinput.cpp
+END
+hiddevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hiddevice.cpp
+END
+hidjsdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hidjsdevice.h
+END
+hideventdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2032/trunk/plugins/hidinput/hideventdevice.cpp
+END
+configurehidinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/hidinput/configurehidinput.cpp
+END
+hidpoller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hidpoller.h
+END
+hidinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1782/trunk/plugins/hidinput/hidinput.h
+END
+hiddevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hiddevice.h
+END
+hideventdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1904/trunk/plugins/hidinput/hideventdevice.h
+END
+configurehidinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/hidinput/configurehidinput.h
+END

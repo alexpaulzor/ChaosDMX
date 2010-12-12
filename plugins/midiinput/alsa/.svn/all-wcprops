@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/alsa
+END
+alsa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2079/trunk/plugins/midiinput/alsa/alsa.pro
+END
+midipoller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2081/trunk/plugins/midiinput/alsa/midipoller.cpp
+END
+MIDI_Input_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2040/trunk/plugins/midiinput/alsa/MIDI_Input_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2040/trunk/plugins/midiinput/alsa/mididevice.cpp
+END
+midiinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/2079/trunk/plugins/midiinput/alsa/midiinput.cpp
+END
+MIDI_Input_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/alsa/MIDI_Input_de_DE.ts
+END
+midipoller.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/alsa/midipoller.h
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/alsa/mididevice.h
+END
+midiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/alsa/midiinput.h
+END

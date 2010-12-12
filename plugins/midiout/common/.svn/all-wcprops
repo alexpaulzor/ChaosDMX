@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common
+END
+configuremididevice.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremididevice.ui
+END
+configuremidiout.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremidiout.h
+END
+configuremididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremididevice.cpp
+END
+configuremidiout.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremidiout.ui
+END
+configuremididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremididevice.h
+END
+midiprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/midiprotocol.h
+END
+configuremidiout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/common/configuremidiout.cpp
+END

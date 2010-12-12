@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src
+END
+bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/bus.h
+END
+qlcfixturedefcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2073/trunk/engine/src/qlcfixturedefcache.h
+END
+chaserrunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/chaserrunner.cpp
+END
+universearray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/universearray.cpp
+END
+qlcfixturemode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1940/trunk/engine/src/qlcfixturemode.h
+END
+inputmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/inputmap.h
+END
+scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/scene.h
+END
+outputmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/outputmap.h
+END
+chaser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/chaser.cpp
+END
+doc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/doc.cpp
+END
+palettegenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1944/trunk/engine/src/palettegenerator.cpp
+END
+qlcfixturedef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcfixturedef.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/src.pro
+END
+qlcchannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1940/trunk/engine/src/qlcchannel.h
+END
+qlcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcfile.cpp
+END
+qlci18n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2017/trunk/engine/src/qlci18n.cpp
+END
+inputpatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/inputpatch.cpp
+END
+outputpatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/outputpatch.cpp
+END
+qlcphysical.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1991/trunk/engine/src/qlcphysical.h
+END
+qlcinputprofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1858/trunk/engine/src/qlcinputprofile.h
+END
+fixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/fixture.cpp
+END
+qlccapability.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1776/trunk/engine/src/qlccapability.h
+END
+efx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/efx.h
+END
+bus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/bus.cpp
+END
+qlcfixturedefcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2084/trunk/engine/src/qlcfixturedefcache.cpp
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/function.h
+END
+qlcfixturemode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcfixturemode.cpp
+END
+inputmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/inputmap.cpp
+END
+fadechannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/fadechannel.h
+END
+qlcinputchannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1859/trunk/engine/src/qlcinputchannel.h
+END
+scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/scene.cpp
+END
+outputmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/outputmap.cpp
+END
+efxfixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/efxfixture.h
+END
+scenevalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/scenevalue.h
+END
+collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/collection.h
+END
+mastertimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/mastertimer.h
+END
+intensitygenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1878/trunk/engine/src/intensitygenerator.h
+END
+chaserrunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/chaserrunner.h
+END
+universearray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/universearray.h
+END
+qlcchannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcchannel.cpp
+END
+chaser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/chaser.h
+END
+doc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/doc.h
+END
+palettegenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1944/trunk/engine/src/palettegenerator.h
+END
+qlcfixturedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1910/trunk/engine/src/qlcfixturedef.h
+END
+qlcphysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcphysical.cpp
+END
+dmxsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/dmxsource.h
+END
+qlcinputprofile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcinputprofile.cpp
+END
+qlccapability.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlccapability.cpp
+END
+efx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/efx.cpp
+END
+inputpatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/inputpatch.h
+END
+qlcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2070/trunk/engine/src/qlcfile.h
+END
+qlci18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2017/trunk/engine/src/qlci18n.h
+END
+function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/function.cpp
+END
+outputpatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/outputpatch.h
+END
+fadechannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/fadechannel.cpp
+END
+qlcinputchannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2077/trunk/engine/src/qlcinputchannel.cpp
+END
+efxfixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/efxfixture.cpp
+END
+scenevalue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/scenevalue.cpp
+END
+fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/fixture.h
+END
+collection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/collection.cpp
+END
+mastertimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/engine/src/mastertimer.cpp
+END
+intensitygenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1878/trunk/engine/src/intensitygenerator.cpp
+END

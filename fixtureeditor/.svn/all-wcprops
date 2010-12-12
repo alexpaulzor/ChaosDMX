@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/qlc/!svn/ver/2085/trunk/fixtureeditor
+END
+editmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/editmode.h
+END
+fixtureeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1940/trunk/fixtureeditor/fixtureeditor.h
+END
+capabilitywizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/capabilitywizard.cpp
+END
+capabilitywizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/capabilitywizard.h
+END
+editchannel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2024/trunk/fixtureeditor/editchannel.ui
+END
+fixtureeditor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1970/trunk/fixtureeditor/fixtureeditor.pro
+END
+editchannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1878/trunk/fixtureeditor/editchannel.cpp
+END
+fixtureeditor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/701/trunk/fixtureeditor/fixtureeditor.rc
+END
+fixtureeditor_es_ES.ts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1994/trunk/fixtureeditor/fixtureeditor_es_ES.ts
+END
+fixtureeditor_fr_FR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/2041/trunk/fixtureeditor/fixtureeditor_fr_FR.ts
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2085/trunk/fixtureeditor/app.cpp
+END
+fixtureeditor_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1994/trunk/fixtureeditor/fixtureeditor_de_DE.ts
+END
+editcapability.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/683/trunk/fixtureeditor/editcapability.ui
+END
+editchannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/editchannel.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/main.cpp
+END
+editmode.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2024/trunk/fixtureeditor/editmode.ui
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/app.h
+END
+editcapability.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/editcapability.cpp
+END
+fixtureeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2024/trunk/fixtureeditor/fixtureeditor.ui
+END
+editmode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/editmode.cpp
+END
+editcapability.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1750/trunk/fixtureeditor/editcapability.h
+END
+fixtureeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2085/trunk/fixtureeditor/fixtureeditor.cpp
+END
+capabilitywizard.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1075/trunk/fixtureeditor/capabilitywizard.ui
+END
+fixtureeditor_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1994/trunk/fixtureeditor/fixtureeditor_fi_FI.ts
+END

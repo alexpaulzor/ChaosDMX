@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/qlc/!svn/ver/1750/trunk/launcher
+END
+launcher.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1723/trunk/launcher/launcher.pro
+END
+launcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1750/trunk/launcher/launcher.cpp
+END
+launcher_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1668/trunk/launcher/launcher_fi_FI.ts
+END
+launcher_fr_FR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1723/trunk/launcher/launcher_fr_FR.ts
+END
+launcher.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1498/trunk/launcher/launcher.qrc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/1750/trunk/launcher/main.cpp
+END
+launcher_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1722/trunk/launcher/launcher_de_DE.ts
+END
+launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1750/trunk/launcher/launcher.h
+END

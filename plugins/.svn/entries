@@ -1,0 +1,95 @@
+10
+
+dir
+2156
+https://qlc.svn.sourceforge.net/svnroot/qlc/trunk/plugins
+https://qlc.svn.sourceforge.net/svnroot/qlc
+
+
+
+2010-12-11T06:36:10.295265Z
+2150
+hjunnila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0db28fee-5c31-0410-96ea-e69cce70e049
+
+plugins.pro
+file
+
+
+
+
+2010-12-12T11:38:05.025042Z
+00009fa5cc2ca65dfa1bf03d3b1dba6f
+2010-11-29T20:10:56.140778Z
+2100
+hjunnila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+401
+
+midiinput
+dir
+
+interfaces
+dir
+
+olaout
+dir
+
+dmx4linuxout
+dir
+
+hidinput
+dir
+
+udmxout
+dir
+
+ewinginput
+dir
+
+peperoniout
+dir
+
+midiout
+dir
+
+vellemanout
+dir
+
+enttecdmxusbout
+dir
+

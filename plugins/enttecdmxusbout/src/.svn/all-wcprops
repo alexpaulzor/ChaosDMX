@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2087/trunk/plugins/enttecdmxusbout/src
+END
+qlcftdi-libftdi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qlc/!svn/ver/2010/trunk/plugins/enttecdmxusbout/src/qlcftdi-libftdi.cpp
+END
+enttecdmxusbout.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/2022/trunk/plugins/enttecdmxusbout/src/enttecdmxusbout.h
+END
+qlcftdi-ftd2xx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qlc/!svn/ver/2012/trunk/plugins/enttecdmxusbout/src/qlcftdi-ftd2xx.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2087/trunk/plugins/enttecdmxusbout/src/src.pro
+END
+Enttec_DMX_USB_Output_fr_FR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/qlc/!svn/ver/2028/trunk/plugins/enttecdmxusbout/src/Enttec_DMX_USB_Output_fr_FR.ts
+END
+Enttec_DMX_USB_Output_es_ES.ts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/qlc/!svn/ver/2028/trunk/plugins/enttecdmxusbout/src/Enttec_DMX_USB_Output_es_ES.ts
+END
+Enttec_DMX_USB_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/qlc/!svn/ver/2028/trunk/plugins/enttecdmxusbout/src/Enttec_DMX_USB_Output_de_DE.ts
+END
+enttecdmxusbwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qlc/!svn/ver/2011/trunk/plugins/enttecdmxusbout/src/enttecdmxusbwidget.cpp
+END
+z65-enttec-dmxusb.rules
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/qlc/!svn/ver/2020/trunk/plugins/enttecdmxusbout/src/z65-enttec-dmxusb.rules
+END
+enttecdmxusbwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qlc/!svn/ver/2007/trunk/plugins/enttecdmxusbout/src/enttecdmxusbwidget.h
+END
+Enttec_DMX_USB_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/qlc/!svn/ver/2028/trunk/plugins/enttecdmxusbout/src/Enttec_DMX_USB_Output_fi_FI.ts
+END
+enttecdmxusbpro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qlc/!svn/ver/2007/trunk/plugins/enttecdmxusbout/src/enttecdmxusbpro.cpp
+END
+enttecdmxusbopen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qlc/!svn/ver/2053/trunk/plugins/enttecdmxusbout/src/enttecdmxusbopen.cpp
+END
+qlcftdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2007/trunk/plugins/enttecdmxusbout/src/qlcftdi.h
+END
+enttecdmxusbpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/2009/trunk/plugins/enttecdmxusbout/src/enttecdmxusbpro.h
+END
+enttecdmxusbopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qlc/!svn/ver/2021/trunk/plugins/enttecdmxusbout/src/enttecdmxusbopen.h
+END
+enttecdmxusbout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qlc/!svn/ver/2022/trunk/plugins/enttecdmxusbout/src/enttecdmxusbout.cpp
+END

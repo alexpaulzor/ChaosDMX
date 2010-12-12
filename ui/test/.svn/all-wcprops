@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/qlc/!svn/ver/1751/trunk/ui/test
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1750/trunk/ui/test/main.cpp
+END
+vcwidgetproperties_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1750/trunk/ui/test/vcwidgetproperties_test.cpp
+END
+test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1751/trunk/ui/test/test.pro
+END
+vcwidgetproperties_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1750/trunk/ui/test/vcwidgetproperties_test.h
+END

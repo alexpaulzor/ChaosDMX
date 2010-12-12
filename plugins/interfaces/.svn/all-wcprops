@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1942/trunk/plugins/interfaces
+END
+qlctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1942/trunk/plugins/interfaces/qlctypes.h
+END
+qlcinplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1784/trunk/plugins/interfaces/qlcinplugin.h
+END
+qlcoutplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1784/trunk/plugins/interfaces/qlcoutplugin.h
+END

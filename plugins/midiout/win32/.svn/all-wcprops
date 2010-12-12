@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32
+END
+midiout.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32/midiout.h
+END
+win32.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32/win32.pro
+END
+MIDI_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2046/trunk/plugins/midiout/win32/MIDI_Output_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32/mididevice.cpp
+END
+MIDI_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiout/win32/MIDI_Output_de_DE.ts
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32/mididevice.h
+END
+midiout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/win32/midiout.cpp
+END

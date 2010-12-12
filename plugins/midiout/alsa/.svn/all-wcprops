@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa
+END
+alsa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa/alsa.pro
+END
+midiout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa/midiout.h
+END
+MIDI_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2047/trunk/plugins/midiout/alsa/MIDI_Output_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa/mididevice.cpp
+END
+MIDI_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiout/alsa/MIDI_Output_de_DE.ts
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa/mididevice.h
+END
+midiout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiout/alsa/midiout.cpp
+END

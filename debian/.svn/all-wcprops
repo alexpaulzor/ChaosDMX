@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/qlc/!svn/ver/2056/trunk/debian
+END
+qlc-output-enttec-dmxusb.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/1713/trunk/debian/qlc-output-enttec-dmxusb.postinst
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/1965/trunk/debian/control
+END
+qlc.menu
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/qlc/!svn/ver/1330/trunk/debian/qlc.menu
+END
+qlc-input-hid.install
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-input-hid.install
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/qlc/!svn/ver/1343/trunk/debian/compat
+END
+qlc.install
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/2056/trunk/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/qlc/!svn/ver/1658/trunk/debian/rules
+END
+qlc-output-udmx.install
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-output-udmx.install
+END
+qlc-output-peperoni.install
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-output-peperoni.install
+END
+qlc-input-midi.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-input-midi.install
+END
+qlc.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1606/trunk/debian/qlc.postinst
+END
+qlc-output-midi.install
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-output-midi.install
+END
+qlc-output-enttec-dmxusb.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-output-enttec-dmxusb.install
+END
+qlc.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/1606/trunk/debian/qlc.postrm
+END
+qlc-input-enttec-wing.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-input-enttec-wing.install
+END
+qlc.docs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/683/trunk/debian/qlc.docs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1648/trunk/debian/copyright
+END
+qlc-output-udmx.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1713/trunk/debian/qlc-output-udmx.postinst
+END
+qlc-output-dmx4linux.install
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1706/trunk/debian/qlc-output-dmx4linux.install
+END
+qlc-output-peperoni.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1713/trunk/debian/qlc-output-peperoni.postinst
+END

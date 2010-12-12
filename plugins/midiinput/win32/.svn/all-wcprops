@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/win32
+END
+win32.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/win32/win32.pro
+END
+MIDI_Input_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/2043/trunk/plugins/midiinput/win32/MIDI_Input_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/1813/trunk/plugins/midiinput/win32/mididevice.cpp
+END
+midiinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2043/trunk/plugins/midiinput/win32/midiinput.cpp
+END
+MIDI_Input_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/win32/MIDI_Input_de_DE.ts
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1813/trunk/plugins/midiinput/win32/mididevice.h
+END
+midiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1782/trunk/plugins/midiinput/win32/midiinput.h
+END

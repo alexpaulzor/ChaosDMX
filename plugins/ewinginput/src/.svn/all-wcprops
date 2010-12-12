@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2108/trunk/plugins/ewinginput/src
+END
+ewing.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2108/trunk/plugins/ewinginput/src/ewing.h
+END
+ewinginput.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2105/trunk/plugins/ewinginput/src/ewinginput.h
+END
+eplaybackwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/2108/trunk/plugins/ewinginput/src/eplaybackwing.cpp
+END
+eprogramwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/src/eprogramwing.cpp
+END
+ENTTEC_Wing_Input_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qlc/!svn/ver/2031/trunk/plugins/ewinginput/src/ENTTEC_Wing_Input_fi_FI.ts
+END
+eplaybackwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/2108/trunk/plugins/ewinginput/src/eplaybackwing.h
+END
+eshortcutwing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qlc/!svn/ver/2108/trunk/plugins/ewinginput/src/eshortcutwing.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/ewinginput/src/src.pro
+END
+eprogramwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2030/trunk/plugins/ewinginput/src/eprogramwing.h
+END
+ENTTEC_Wing_Input_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/ewinginput/src/ENTTEC_Wing_Input_de_DE.ts
+END
+ewing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2106/trunk/plugins/ewinginput/src/ewing.cpp
+END
+ewinginput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2106/trunk/plugins/ewinginput/src/ewinginput.cpp
+END
+eshortcutwing.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/2106/trunk/plugins/ewinginput/src/eshortcutwing.h
+END

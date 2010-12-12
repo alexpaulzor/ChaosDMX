@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test
+END
+chaserrunner_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/chaserrunner_test.cpp
+END
+scenevalue_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1869/trunk/engine/test/scenevalue_test.h
+END
+universearray_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1908/trunk/engine/test/universearray_test.cpp
+END
+mastertimer_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/mastertimer_test.h
+END
+qlcfixturedef_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlcfixturedef_test.cpp
+END
+doc_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/doc_test.cpp
+END
+chaser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/chaser_test.cpp
+END
+qlcphysical_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1991/trunk/engine/test/qlcphysical_test.cpp
+END
+dmxsource_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/dmxsource_stub.h
+END
+qlci18n_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1916/trunk/engine/test/qlci18n_test.cpp
+END
+inputpatch_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2070/trunk/engine/test/inputpatch_test.cpp
+END
+qlcinputprofile_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlcinputprofile_test.cpp
+END
+scenevalue_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/scenevalue_test.cpp
+END
+qlcfixturemode_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlcfixturemode_test.cpp
+END
+fixture_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2093/trunk/engine/test/fixture_test.h
+END
+mastertimer_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/mastertimer_test.cpp
+END
+inputmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2083/trunk/engine/test/inputmap_test.cpp
+END
+scene_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/scene_test.cpp
+END
+efxfixture_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/efxfixture_test.h
+END
+broken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1768/trunk/engine/test/broken.xml
+END
+mastertimer_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/mastertimer_stub.h
+END
+collection_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/collection_test.h
+END
+outputmap_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1938/trunk/engine/test/outputmap_test.h
+END
+chaserrunner_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/chaserrunner_test.h
+END
+universearray_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1908/trunk/engine/test/universearray_test.h
+END
+qlcfixturedef_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1909/trunk/engine/test/qlcfixturedef_test.h
+END
+doc_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/doc_test.h
+END
+chaser_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/chaser_test.h
+END
+qlcchannel_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/qlcchannel_test.h
+END
+qlccapability_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlccapability_test.cpp
+END
+qlci18n_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1916/trunk/engine/test/qlci18n_test.h
+END
+inputpatch_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/inputpatch_test.h
+END
+function_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1847/trunk/engine/test/function_test.cpp
+END
+fixture_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2093/trunk/engine/test/fixture_test.cpp
+END
+efx_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/efx_test.h
+END
+mastertimer_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/mastertimer_stub.cpp
+END
+scene_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/scene_stub.cpp
+END
+qlcinputchannel_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1753/trunk/engine/test/qlcinputchannel_test.h
+END
+fadechannel_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/fadechannel_test.h
+END
+outputmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2092/trunk/engine/test/outputmap_test.cpp
+END
+qlcfixturemode_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1852/trunk/engine/test/qlcfixturemode_test.h
+END
+outputmap_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/outputmap_stub.h
+END
+inputmap_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2070/trunk/engine/test/inputmap_test.h
+END
+scene_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/scene_test.h
+END
+palettegenerator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/palettegenerator_test.cpp
+END
+qlcchannel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlcchannel_test.cpp
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1774/trunk/engine/test/test.sh
+END
+qlcfile_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1863/trunk/engine/test/qlcfile_test.cpp
+END
+efx_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/efx_test.cpp
+END
+function_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/function_stub.cpp
+END
+outputpatch_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1845/trunk/engine/test/outputpatch_test.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/main.cpp
+END
+qlccapability_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1776/trunk/engine/test/qlccapability_test.h
+END
+qlcinputchannel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1940/trunk/engine/test/qlcinputchannel_test.cpp
+END
+fadechannel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/fadechannel_test.cpp
+END
+qlcmacros_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/qlcmacros_test.h
+END
+qlcfixturedefcache_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/qlcfixturedefcache_test.cpp
+END
+bus_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/bus_test.cpp
+END
+function_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1847/trunk/engine/test/function_test.h
+END
+outputmap_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/outputmap_stub.cpp
+END
+test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/engine/test/test.pro
+END
+scene_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/scene_stub.h
+END
+dmxsource_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/dmxsource_stub.cpp
+END
+palettegenerator_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1944/trunk/engine/test/palettegenerator_test.h
+END
+outputpatch_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2075/trunk/engine/test/outputpatch_test.cpp
+END
+qlcphysical_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/qlcphysical_test.h
+END
+qlcmacros_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/qlcmacros_test.cpp
+END
+qlcfile_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1768/trunk/engine/test/qlcfile_test.h
+END
+qlcinputprofile_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1860/trunk/engine/test/qlcinputprofile_test.h
+END
+function_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1883/trunk/engine/test/function_stub.h
+END
+efxfixture_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/efxfixture_test.cpp
+END
+collection_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/collection_test.cpp
+END
+readonly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1768/trunk/engine/test/readonly.xml
+END
+qlcfixturedefcache_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2073/trunk/engine/test/qlcfixturedefcache_test.h
+END
+bus_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/engine/test/bus_test.h
+END

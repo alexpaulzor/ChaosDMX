@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/macx
+END
+MIDI_Input_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2044/trunk/plugins/midiinput/macx/MIDI_Input_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qlc/!svn/ver/2044/trunk/plugins/midiinput/macx/mididevice.cpp
+END
+midiinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/2044/trunk/plugins/midiinput/macx/midiinput.cpp
+END
+MIDI_Input_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/macx/MIDI_Input_de_DE.ts
+END
+macx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiinput/macx/macx.pro
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/1813/trunk/plugins/midiinput/macx/mididevice.h
+END
+midiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1782/trunk/plugins/midiinput/macx/midiinput.h
+END

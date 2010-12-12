@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiout/macx
+END
+midiout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1784/trunk/plugins/midiout/macx/midiout.h
+END
+MIDI_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2048/trunk/plugins/midiout/macx/MIDI_Output_fi_FI.ts
+END
+mididevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2048/trunk/plugins/midiout/macx/mididevice.cpp
+END
+MIDI_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiout/macx/MIDI_Output_de_DE.ts
+END
+macx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/midiout/macx/macx.pro
+END
+mididevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/1869/trunk/plugins/midiout/macx/mididevice.h
+END
+midiout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/2048/trunk/plugins/midiout/macx/midiout.cpp
+END

@@ -1,0 +1,8 @@
+#!/bin/bash
+VERSION=`head -1 ../debian/changelog | sed 's/.*(\(.*\)).*/\1/'`
+./create-dmg --volname "Q Light Controller $VERSION" \
+	     --background background.png \
+	     --window-size 200 200 \
+	     --icon-size 128 --icon "qlc" 96 64 \
+	     QLC-$VERSION.dmg \
+	     ~/QLC.app

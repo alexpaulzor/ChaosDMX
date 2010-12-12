@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/qlc/!svn/ver/2156/trunk/ui/src
+END
+fixtureselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/fixtureselection.h
+END
+vcbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcbutton.cpp
+END
+sceneeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2117/trunk/ui/src/sceneeditor.cpp
+END
+docbrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1964/trunk/ui/src/docbrowser.cpp
+END
+fixtureconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2117/trunk/ui/src/fixtureconsole.h
+END
+generatorarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/generatorarea.cpp
+END
+vcslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vcslider.h
+END
+chasereditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/chasereditor.h
+END
+inputpatcheditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2063/trunk/ui/src/inputpatcheditor.ui
+END
+inputprofileeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/inputprofileeditor.ui
+END
+selectinputchannel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1747/trunk/ui/src/selectinputchannel.ui
+END
+busmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/busmanager.cpp
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/qlc/!svn/ver/2083/trunk/ui/src/app.h
+END
+functionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1835/trunk/ui/src/functionmanager.h
+END
+fixturemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/fixturemanager.h
+END
+functionselection.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/functionselection.ui
+END
+vcbuttonproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1824/trunk/ui/src/vcbuttonproperties.h
+END
+addfixture.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/addfixture.ui
+END
+vcpropertieseditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1981/trunk/ui/src/vcpropertieseditor.cpp
+END
+outputpatcheditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/outputpatcheditor.h
+END
+selectinputchannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/selectinputchannel.h
+END
+addvcbuttonmatrix.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1954/trunk/ui/src/addvcbuttonmatrix.ui
+END
+sceneeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1721/trunk/ui/src/sceneeditor.ui
+END
+qlc_fr_FR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2041/trunk/ui/src/qlc_fr_FR.ts
+END
+vcxypadfixtureeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/vcxypadfixtureeditor.h
+END
+collectioneditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1830/trunk/ui/src/collectioneditor.cpp
+END
+assignhotkey.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/assignhotkey.ui
+END
+addvcslidermatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2099/trunk/ui/src/addvcslidermatrix.cpp
+END
+vcslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vcslider.cpp
+END
+vcdockslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1941/trunk/ui/src/vcdockslider.cpp
+END
+vcbuttonproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1961/trunk/ui/src/vcbuttonproperties.ui
+END
+assignhotkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/assignhotkey.h
+END
+aboutbox.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1519/trunk/ui/src/aboutbox.ui
+END
+vcproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vcproperties.ui
+END
+vcwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/2064/trunk/ui/src/vcwidget.h
+END
+vcsliderproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1825/trunk/ui/src/vcsliderproperties.ui
+END
+vcsoloframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/1846/trunk/ui/src/vcsoloframe.h
+END
+vcproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vcproperties.cpp
+END
+monitorlayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/monitorlayout.cpp
+END
+inputpatcheditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2104/trunk/ui/src/inputpatcheditor.cpp
+END
+vcxypadproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1827/trunk/ui/src/vcxypadproperties.ui
+END
+outputpatcheditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/outputpatcheditor.cpp
+END
+vcframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1792/trunk/ui/src/vcframe.h
+END
+vcwidgetproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcwidgetproperties.cpp
+END
+inputprofileeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/inputprofileeditor.h
+END
+vcsliderproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1869/trunk/ui/src/vcsliderproperties.h
+END
+efxeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/efxeditor.h
+END
+dmxaddresstool.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/dmxaddresstool.h
+END
+functionwizard.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1538/trunk/ui/src/functionwizard.ui
+END
+addfixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1940/trunk/ui/src/addfixture.h
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/src.pro
+END
+vccuelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vccuelist.h
+END
+collectioneditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/collectioneditor.h
+END
+vclabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/vclabel.h
+END
+vcframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcframe.cpp
+END
+efxeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1721/trunk/ui/src/efxeditor.ui
+END
+inputprofileeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/inputprofileeditor.cpp
+END
+inputchanneleditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/inputchanneleditor.ui
+END
+inputpatcheditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2072/trunk/ui/src/inputpatcheditor.h
+END
+fixtureselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2156/trunk/ui/src/fixtureselection.cpp
+END
+addfixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1940/trunk/ui/src/addfixture.cpp
+END
+vcdockarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1883/trunk/ui/src/vcdockarea.cpp
+END
+functionwizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2152/trunk/ui/src/functionwizard.cpp
+END
+chasereditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2151/trunk/ui/src/chasereditor.cpp
+END
+docbrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1964/trunk/ui/src/docbrowser.h
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/2083/trunk/ui/src/app.cpp
+END
+functionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2155/trunk/ui/src/functionmanager.cpp
+END
+fixtureselection.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/fixtureselection.ui
+END
+selectinputchannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1941/trunk/ui/src/selectinputchannel.cpp
+END
+inputmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/inputmanager.cpp
+END
+vcxypadfixtureeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/vcxypadfixtureeditor.cpp
+END
+collectioneditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1721/trunk/ui/src/collectioneditor.ui
+END
+monitorfixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2095/trunk/ui/src/monitorfixture.cpp
+END
+inputchanneleditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/inputchanneleditor.h
+END
+main.rc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/1508/trunk/ui/src/main.rc
+END
+vcdockarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1883/trunk/ui/src/vcdockarea.h
+END
+chasereditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1721/trunk/ui/src/chasereditor.ui
+END
+assignhotkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/assignhotkey.cpp
+END
+virtualconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2098/trunk/ui/src/virtualconsole.cpp
+END
+grandmasterslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1892/trunk/ui/src/grandmasterslider.cpp
+END
+functionwizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/functionwizard.h
+END
+vcwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcwidget.cpp
+END
+addvcslidermatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/2098/trunk/ui/src/addvcslidermatrix.h
+END
+vcsoloframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcsoloframe.cpp
+END
+vcxypadfixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcxypadfixture.cpp
+END
+main.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/main.qrc
+END
+vcxypadfixtureeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/vcxypadfixtureeditor.ui
+END
+vcsliderproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1941/trunk/ui/src/vcsliderproperties.cpp
+END
+vcproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vcproperties.h
+END
+monitorlayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/monitorlayout.h
+END
+dmxaddresstool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/dmxaddresstool.cpp
+END
+vcwidgetproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/vcwidgetproperties.h
+END
+inputchanneleditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1940/trunk/ui/src/inputchanneleditor.cpp
+END
+inputmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/inputmanager.h
+END
+qlc_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2023/trunk/ui/src/qlc_de_DE.ts
+END
+monitorfixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/monitorfixture.h
+END
+addvcslidermatrix.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2098/trunk/ui/src/addvcslidermatrix.ui
+END
+vclabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vclabel.cpp
+END
+vccuelistproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vccuelistproperties.ui
+END
+vcbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/1896/trunk/ui/src/vcbutton.h
+END
+sceneeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2117/trunk/ui/src/sceneeditor.h
+END
+fixtureconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2113/trunk/ui/src/fixtureconsole.cpp
+END
+apputil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1804/trunk/ui/src/apputil.cpp
+END
+grandmasterslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1892/trunk/ui/src/grandmasterslider.h
+END
+vcbuttonproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1941/trunk/ui/src/vcbuttonproperties.cpp
+END
+fixturemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/fixturemanager.cpp
+END
+dmxaddresstool.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1506/trunk/ui/src/dmxaddresstool.ui
+END
+busmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/busmanager.h
+END
+monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/monitor.h
+END
+functionselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/functionselection.h
+END
+vcpropertieseditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1981/trunk/ui/src/vcpropertieseditor.h
+END
+addvcbuttonmatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/addvcbuttonmatrix.cpp
+END
+vcxypad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/2078/trunk/ui/src/vcxypad.cpp
+END
+vccuelistproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vccuelistproperties.cpp
+END
+vcdockslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1884/trunk/ui/src/vcdockslider.h
+END
+apputil.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1804/trunk/ui/src/apputil.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/qlc/!svn/ver/2086/trunk/ui/src/main.cpp
+END
+monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/qlc/!svn/ver/1883/trunk/ui/src/monitor.cpp
+END
+aboutbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/aboutbox.h
+END
+efxeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/1940/trunk/ui/src/efxeditor.cpp
+END
+functionselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/functionselection.cpp
+END
+outputmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/outputmanager.h
+END
+consolechannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/consolechannel.h
+END
+vcxypadproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1827/trunk/ui/src/vcxypadproperties.h
+END
+vccuelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vccuelist.cpp
+END
+qlc_es_ES.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1994/trunk/ui/src/qlc_es_ES.ts
+END
+addvcbuttonmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1954/trunk/ui/src/addvcbuttonmatrix.h
+END
+virtualconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1981/trunk/ui/src/virtualconsole.h
+END
+qlc_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1994/trunk/ui/src/qlc_fi_FI.ts
+END
+outputpatcheditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/outputpatcheditor.ui
+END
+vcxypad.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/qlc/!svn/ver/1883/trunk/ui/src/vcxypad.h
+END
+vccuelistproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/vccuelistproperties.h
+END
+aboutbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/aboutbox.cpp
+END
+generatorarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qlc/!svn/ver/1750/trunk/ui/src/generatorarea.h
+END
+vcxypadfixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1883/trunk/ui/src/vcxypadfixture.h
+END
+outputmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/outputmanager.cpp
+END
+consolechannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2150/trunk/ui/src/consolechannel.cpp
+END
+vcxypadproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/1940/trunk/ui/src/vcxypadproperties.cpp
+END

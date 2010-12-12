@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/common/src
+END
+configuremidiinput.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/common/src/configuremidiinput.ui
+END
+configuremidiline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/configuremidiline.h
+END
+configuremidiinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/common/src/configuremidiinput.cpp
+END
+midiinputevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/midiinputevent.cpp
+END
+midiprotocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/midiprotocol.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1820/trunk/plugins/midiinput/common/src/src.pro
+END
+configuremidiline.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/configuremidiline.ui
+END
+configuremidiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qlc/!svn/ver/2150/trunk/plugins/midiinput/common/src/configuremidiinput.h
+END
+midiinputevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/midiinputevent.h
+END
+midiprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/midiprotocol.h
+END
+configuremidiline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/src/configuremidiline.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2051/trunk/plugins/peperoniout/win32
+END
+peperoniout.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qlc/!svn/ver/1784/trunk/plugins/peperoniout/win32/peperoniout.h
+END
+win32.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qlc/!svn/ver/2051/trunk/plugins/peperoniout/win32/win32.pro
+END
+Peperoni_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qlc/!svn/ver/2037/trunk/plugins/peperoniout/win32/Peperoni_Output_fi_FI.ts
+END
+peperonidevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qlc/!svn/ver/2037/trunk/plugins/peperoniout/win32/peperonidevice.cpp
+END
+Peperoni_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qlc/!svn/ver/2051/trunk/plugins/peperoniout/win32/Peperoni_Output_de_DE.ts
+END
+peperonidevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/peperoniout/win32/peperonidevice.h
+END
+peperoniout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qlc/!svn/ver/2037/trunk/plugins/peperoniout/win32/peperoniout.cpp
+END

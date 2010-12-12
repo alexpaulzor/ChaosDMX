@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/olaout
+END
+OLA_Output_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/olaout/OLA_Output_de_DE.ts
+END
+configureolaout.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qlc/!svn/ver/2033/trunk/plugins/olaout/configureolaout.ui
+END
+olaoutthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/olaoutthread.h
+END
+olaout.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2050/trunk/plugins/olaout/olaout.pro
+END
+olaout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/2033/trunk/plugins/olaout/olaout.cpp
+END
+qlclogdestination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/qlclogdestination.cpp
+END
+configureolaout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/configureolaout.cpp
+END
+olaout.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qlc/!svn/ver/1784/trunk/plugins/olaout/olaout.h
+END
+qlclogdestination.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/qlclogdestination.h
+END
+configureolaout.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/configureolaout.h
+END
+OLA_Output_fi_FI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qlc/!svn/ver/2033/trunk/plugins/olaout/OLA_Output_fi_FI.ts
+END
+olaoutthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qlc/!svn/ver/1750/trunk/plugins/olaout/olaoutthread.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qlc/!svn/ver/1687/trunk/plugins/olaout/README
+END

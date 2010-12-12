@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qlc/!svn/ver/1820/trunk/plugins/midiinput/common/test
+END
+midiprotocol_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/qlc/!svn/ver/1820/trunk/plugins/midiinput/common/test/midiprotocol_test.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/1818/trunk/plugins/midiinput/common/test/main.cpp
+END
+midiprotocol_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qlc/!svn/ver/1820/trunk/plugins/midiinput/common/test/midiprotocol_test.h
+END
+test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qlc/!svn/ver/1820/trunk/plugins/midiinput/common/test/test.pro
+END

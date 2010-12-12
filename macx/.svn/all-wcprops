@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/qlc/!svn/ver/1751/trunk/macx
+END
+libqlcengine-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libqlcengine-nametool.pri
+END
+libqtxml-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libqtxml-nametool.pri
+END
+libftdi-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libftdi-nametool.pri
+END
+imageformats-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1751/trunk/macx/imageformats-nametool.pri
+END
+libqtgui-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libqtgui-nametool.pri
+END
+libusb-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libusb-nametool.pri
+END
+macx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/qlc/!svn/ver/1751/trunk/macx/macx.pro
+END
+nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/qlc/!svn/ver/1751/trunk/macx/nametool.pri
+END
+libqtcore-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libqtcore-nametool.pri
+END
+libqtnetwork-nametool.pri
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qlc/!svn/ver/1751/trunk/macx/libqtnetwork-nametool.pri
+END
