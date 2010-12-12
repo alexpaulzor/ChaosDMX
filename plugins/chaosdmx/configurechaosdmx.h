@@ -19,15 +19,12 @@
   Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 */
 
-#ifndef CONFIGUREHIDINPUT_H
-#define CONFIGUREHIDINPUT_H
+#ifndef CONFIGURECHAOSDMX_H
+#define CONFIGURECHAOSDMX_H
 
-#include "ui_configurehidinput.h"
+#include "ui_configurechaosdmx.h"
 
-class HIDInput;
-class HIDDevice;
-
-class ConfigureHIDInput : public QDialog, public Ui_ConfigureHIDInput
+class ConfigureChaosDMX : public QDialog, public Ui_ConfigureChaosDMX
 {
     Q_OBJECT
 
@@ -35,34 +32,12 @@ class ConfigureHIDInput : public QDialog, public Ui_ConfigureHIDInput
      * Initialization
      *********************************************************************/
 public:
-    ConfigureHIDInput(QWidget* parent, HIDInput* plugin);
-    virtual ~ConfigureHIDInput();
+    ConfigureChaosDMX(QWidget* parent);
+    virtual ~ConfigureChaosDMX();
 
 protected:
-    HIDInput* m_plugin;
+    ChaosDMX* m_plugin;
 
-    /*********************************************************************
-     * Refresh
-     *********************************************************************/
-protected slots:
-    /**
-     * Invoke refresh for the interface list
-     */
-    void slotRefreshClicked();
-
-    /**
-     * Callback for HIDInput::deviceAdded() signals.
-     */
-    void slotDeviceAdded(HIDDevice* device);
-
-    /**
-     * Callback for HIDInput::deviceRemoved() signals.
-     */
-    void slotDeviceRemoved(HIDDevice* device);
-
-protected:
-    /** Refresh the interface list */
-    void refreshList();
 };
 
 #endif
