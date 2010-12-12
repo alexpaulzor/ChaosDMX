@@ -12,4 +12,5 @@ win32:SUBDIRS        += vellemanout
 # Input plugins
 SUBDIRS              += ewinginput
 SUBDIRS              += midiinput
+SUBDIRS              += chaosdmx
 !macx:!win32:SUBDIRS += hidinput
